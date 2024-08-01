@@ -1,7 +1,7 @@
 <template>
   <div>Hello {{ value }}
     <h1>HaHa: {{ count }}</h1>
-    <button @click="count+=1"></button>
+    <button @click="count+=1">count+1</button>
   </div>
 </template>
 
